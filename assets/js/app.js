@@ -1,5 +1,5 @@
 /** @jsx React.DOM */
-var React    = window.React = require('react'), // assign it to winow for react chrome extension
+var React    = window.React = require('react'), // assign it to window for react chrome extension
 
     Header   = require('./header'),
     Posts    = require('./posts'),
